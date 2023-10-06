@@ -1,2 +1,22 @@
 # client-server-template
-A minimal React app that fetches data from a nodeJS backend server through an Express API
+
+An instant search web app that fetches NBA Player data from a backend server:
+- The front-end is built with React, using Vite.
+- The backend is build with nodeJS and Express.
+
+A basic React app with a client-server interaction I might reuse.
+
+## Getting Started
+
+### Prerequisites
+
+- NodeJS
+- npm
+
+### Font-end
+
+### Back-end
+
+
+
+
